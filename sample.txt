@@ -1,0 +1,3 @@
+Hello Java
+This file demonstrates file handling operations.
+
